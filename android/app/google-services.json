@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335087812220",
+    "project_id": "smart-remove-f418d",
+    "storage_bucket": "smart-remove-f418d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335087812220:android:bd05f217b61a0d52cad3f9",
+        "android_client_info": {
+          "package_name": "com.hk.smart_remove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfSxhCDrgeC7BVfRlh7B-2CYJBqzV5pzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
